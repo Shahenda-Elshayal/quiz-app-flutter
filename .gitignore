@@ -45,17 +45,17 @@ app.*.map.json
 /android/app/release
 
 # Flutter/Dart/Pub related
-.dart_tool/
-.packages
-.pub/
-build/
-ios/Flutter/Flutter.framework
-ios/Flutter/Flutter.podspec
-ios/Flutter/Generated.xcconfig
-ios/Flutter/app.flx
-ios/Flutter/app.zip
-ios/Flutter/flutter_assets/
-ios/Flutter/flutter_export_environment.sh
-ios/Pods
-macos/Flutter/GeneratedPluginRegistrant.swift
-macos/Flutter/ephemeral
+# .dart_tool/
+# .packages
+# .pub/
+# build/
+# ios/Flutter/Flutter.framework
+# ios/Flutter/Flutter.podspec
+# ios/Flutter/Generated.xcconfig
+# ios/Flutter/app.flx
+# ios/Flutter/app.zip
+# ios/Flutter/flutter_assets/
+# ios/Flutter/flutter_export_environment.sh
+# ios/Pods
+# macos/Flutter/GeneratedPluginRegistrant.swift
+# macos/Flutter/ephemeral
